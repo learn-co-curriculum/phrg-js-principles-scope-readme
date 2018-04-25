@@ -154,3 +154,4 @@ So, to sum up our tricks for taming the scope monster:
 - MDN
   + [Scope](https://developer.mozilla.org/en-US/docs/Glossary/scope)
   + [Functions — Function scope](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#Function_scope)
+<p data-visibility='hidden'>PHRG Scope</p>
