@@ -150,6 +150,10 @@ So, to sum up our tricks for taming the scope monster:
 2. Keep in mind that every function creates its own scope, and any variables or functions you declare inside of the function will not be available outside of it.
 3. For Dijkstra's sake, ***always use `const` and `let` to declare variables***.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-principles-scope-readme/issues) or [pull-reqeust](https://github.com/learn-co-curriculum/phrg-js-principles-scope-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-reqeust, and send them a link via Connect.
+
 ## Resources
 - MDN
   + [Scope](https://developer.mozilla.org/en-US/docs/Glossary/scope)
